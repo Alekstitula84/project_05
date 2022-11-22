@@ -128,24 +128,24 @@
   top: 0;
   left: 0;
 
-  //   background-image: url(../images/bg-mob.jpeg);
-  //   background-repeat: no-repeat;
-  //   background-position: center;
-  //   background-size: cover;
-  //   flex-grow: 1;
+  background-image: url(../../images/background/mobile/background-menu.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  flex-grow: 1;
 
-  //   width: 100vw;
-  //   height: 100vh;
-  //   z-index: 1;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
 
-  //   @media screen and (min-width: 768px) {
-  //     background-image: url(../images/bg-tab.jpeg);
-  //     @media (min-device-pixel-ratio: 2),
-  //       (min-resolution: 192dpi),
-  //       (min-resolution: 2dppx) {
-  //       background-image: url(../images/bg-tab-2x.jpeg);
-  //     }
-  //   }
+  @media screen and (min-width: 768px) {
+    background-image: url(../../images/background/tablet/background-menu.jpg);
+    @media (min-device-pixel-ratio: 2),
+      (min-resolution: 192dpi),
+      (min-resolution: 2dppx) {
+      background-image: url(../../images/background/tablet/background-menu@2x.jpg);
+    }
+  }
 }
 
 .wrap-mob {
