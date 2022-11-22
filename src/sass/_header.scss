@@ -138,6 +138,12 @@
   height: 100vh;
   z-index: 1;
 
+  @media (min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi),
+    (min-resolution: 2dppx) {
+    background-image: url(../../images/background/mobile/background-menu@2x.jpg);
+  }
+
   @media screen and (min-width: 768px) {
     background-image: url(../../images/background/tablet/background-menu.jpg);
     @media (min-device-pixel-ratio: 2),
