@@ -44,11 +44,11 @@
     height: 364px;
   }
 }
-.blog__img {
-  // @media screen and (min-width: 1280px) {
-  //   order: -1;
-  // }
-}
+// .blog__img {
+//   // @media screen and (min-width: 1280px) {
+//   //   order: -1;
+//   // }
+// }
 .blog__content {
   margin-bottom: 24px;
   @media screen and (min-width: 768px) {
@@ -147,8 +147,7 @@
     right: 0;
   }
 }
-.abc {
-}
+
 .blog__details {
   @media screen and (min-width: 768px) {
     display: flex;
