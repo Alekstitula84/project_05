@@ -1,0 +1,2 @@
+!function(){var t={openModalBtnCart:document.querySelector("[data-modal-open-cart]"),closeModalBtnCart:document.querySelector("[data-modal-close-cart]"),modalCart:document.querySelector("[data-modal-cart]")};function a(){t.modalCart.classList.toggle("is-hidden")}t.openModalBtnCart.addEventListener("click",a),t.closeModalBtnCart.addEventListener("click",a)}();
+//# sourceMappingURL=take_order.a6378d2a.js.map

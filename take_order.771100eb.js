@@ -1,0 +1,2 @@
+!function(){let e=document.querySelectorAll(".select__header"),t=document.querySelectorAll(".select__item");function c(){this.parentElement.classList.toggle("is-active")}function l(){let e=this.innerText,t=this.closest(".select");t.querySelector(".select__current").innerText=e,t.classList.remove("is-active")}e.forEach((e=>{e.addEventListener("click",c)})),t.forEach((e=>{e.addEventListener("click",l)}))}();
+//# sourceMappingURL=take_order.771100eb.js.map
