@@ -1,0 +1,1 @@
+{"mappings":"AACM,IAAIA,OAAS,IAAIC,OAAO,qBAAsB,CAC5CC,WAAY,CACVC,GAAI","sources":["src/js/accessories_slider.js"],"sourcesContent":["\n      var swiper = new Swiper(\".accessoriesSwiper\", {\n        pagination: {\n          el: \".swiper-pagination\",\n        },\n      });\n    "],"names":["swiper","Swiper","pagination","el"],"version":3,"file":"accessories.58572898.js.map"}
