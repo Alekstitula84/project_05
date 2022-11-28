@@ -1,1 +1,0 @@
-{"mappings":"AACM,IAAIA,OAAS,IAAIC,OAAO,cAAe,CACrCC,WAAY,CACVC,GAAI","sources":["src/js/blog_slider.js"],"sourcesContent":["\n      var swiper = new Swiper(\".blogSwiper\", {\n        pagination: {\n          el: \".swiper-pagination\",\n        },\n      });\n    "],"names":["swiper","Swiper","pagination","el"],"version":3,"file":"blog.31351001.js.map"}
